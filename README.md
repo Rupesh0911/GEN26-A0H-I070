@@ -3,7 +3,7 @@
 ## GEN26-A0H-I070
 ### Team Details
 #### **Team Name** << INFINITE LOOPS >> <br/>
-#### **Video Link** << >> <br/>
+#### **Video Link** <<https://youtu.be/FIb-SlKKwCI?si=NbmYnLgp6eA8H27C>>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |    🏫 Dayscholar / Hosteller   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:-------------------------------:| 
